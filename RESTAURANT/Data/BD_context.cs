@@ -23,6 +23,7 @@ namespace RESTAURANT.Data
                 o.HasNoKey();
             }));
         }
+        //сщььше
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         
         {
